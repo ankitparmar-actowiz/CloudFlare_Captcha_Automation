@@ -1,4 +1,4 @@
-# SeleniumBase CAPTCHA Bypass Script for Hisco.com
+# SeleniumBase Cloud Flare Turnstile CAPTCHA Bypass Script for Hisco.com
 
 This repository contains a Python script that uses [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) with stealth (undetectable/undetected-chromedriver) settings to access [Hisco.com](https://www.hisco.com) and automatically attempt to click and bypass a CAPTCHA challenge using SeleniumBase's `uc_gui_click_captcha()` method.
 
